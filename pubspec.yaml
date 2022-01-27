@@ -31,11 +31,11 @@ flutter:
   fonts:
     - family: OpenSnas
       fonts:
-        - asset: assets/font/OpenSans-Regular.ttf
-        - asset: assets/font/OpenSans-Bold.ttf
+        - asset: assets/fonts/OpenSans-Regular.ttf
+        - asset: assets/fonts/OpenSans-Bold.ttf
           weight: 700
     - family: Quicksand
       fonts:
-        - asset: assets/fonts/Quicksand-Regular.tff
+        - asset: assets/fonts/Quicksand-Regular.ttf
         - asset: assets/fonts/Quicksand-Bold.ttf
           weight: 700
